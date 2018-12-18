@@ -78,7 +78,7 @@ Public Class Form1
         Call KondisiAwal()
     End Sub
 
-    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) 
         If TextBox1.Text = "" Then
             MsgBox("Silahkan Pilih Data yang akan di hapus dengan Masukan NISN dan ENTER")
         Else
