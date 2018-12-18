@@ -1,0 +1,9 @@
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\bin\Release\AppJNM.exe
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\bin\Release\AppJNM.pdb
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\bin\Release\AppJNM.xml
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Release\AppJNM.Form1.resources
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Release\AppJNM.Resources.resources
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Release\AppJNM.vbproj.GenerateResource.Cache
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Release\AppJNM.exe
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Release\AppJNM.xml
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Release\AppJNM.pdb

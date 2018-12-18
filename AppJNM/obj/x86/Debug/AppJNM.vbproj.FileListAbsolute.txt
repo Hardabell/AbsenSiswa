@@ -1,0 +1,30 @@
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\bin\Debug\AppJNM.exe
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\bin\Debug\AppJNM.pdb
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\bin\Debug\AppJNM.xml
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Form1.resources
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Resources.resources
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\obj\x86\Debug\AppJNM.vbproj.GenerateResource.Cache
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\obj\x86\Debug\AppJNM.exe
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\obj\x86\Debug\AppJNM.xml
+D:\CRUD VB NET SQL Server\AppJNM\AppJNM\obj\x86\Debug\AppJNM.pdb
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.exe
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.xml
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.pdb
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\bin\Debug\AppJNM.exe
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\bin\Debug\AppJNM.pdb
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\bin\Debug\AppJNM.xml
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.vbprojResolveAssemblyReference.cache
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Form1.resources
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Resources.resources
+D:\DOKUMEN\KULIAH\CRUD_VBNET_SQLServer\AppJNM\AppJNM\obj\x86\Debug\AppJNM.vbproj.GenerateResource.Cache
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.exe
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.xml
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.pdb
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\bin\Debug\AppJNM.exe
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\bin\Debug\AppJNM.pdb
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\bin\Debug\AppJNM.xml
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.vbprojResolveAssemblyReference.cache
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Form1.resources
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Resources.resources
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.vbproj.GenerateResource.Cache
+D:\DOKUMEN\KULIAH\AbsensProject\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Guru.resources
